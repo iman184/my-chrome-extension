@@ -8,4 +8,4 @@ Save and Edit Inputs: Save user-defined inputs and edit them as needed.
 ## Screenshots
 
 ### Main Interface
-![Main Interface](images/extention.png)
+![Main Interface](images/extention.PNG)
