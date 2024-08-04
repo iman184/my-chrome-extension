@@ -4,3 +4,8 @@ The extension allows users to:
 Add New Tabs: Save the current tab's URL with a single click. 
 Delete All Saved Tabs: Remove all saved URLs with a double-click. 
 Save and Edit Inputs: Save user-defined inputs and edit them as needed.
+
+## Screenshots
+
+### Main Interface
+![Main Interface](images/extention.png)
