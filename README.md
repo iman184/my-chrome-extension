@@ -9,3 +9,8 @@ Save and Edit Inputs: Save user-defined inputs and edit them as needed.
 
 ### Main Interface
 ![Main Interface](images/extention.PNG)
+### Deleting a Tab
+![Main Interface](images/extention2.PNG)
+### Editing a  Tab
+![Main Interface](images/extention3.PNG)
+
